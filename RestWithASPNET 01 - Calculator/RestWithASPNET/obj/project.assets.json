@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+      "projectUniqueName": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET 01 - Calculator\\RestWithASPNET\\RestWithASPNET.csproj",
       "projectName": "RestWithASPNET",
-      "projectPath": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+      "projectPath": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET 01 - Calculator\\RestWithASPNET\\RestWithASPNET.csproj",
       "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-      "outputPath": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET\\RestWithASPNET\\obj\\",
+      "outputPath": "D:\\Curso_Rest\\RestWithASP-NET\\RestWithASPNET 01 - Calculator\\RestWithASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

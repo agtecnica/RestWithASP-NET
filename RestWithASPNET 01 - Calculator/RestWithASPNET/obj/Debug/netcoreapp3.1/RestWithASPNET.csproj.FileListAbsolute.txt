@@ -18,3 +18,23 @@ D:\Curso_Rest\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp
 D:\Curso_Rest\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.dll
 D:\Curso_Rest\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.pdb
 D:\Curso_Rest\RestWithASP-NET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.genruntimeconfig.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.exe
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.deps.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.runtimeconfig.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.runtimeconfig.dev.json
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.dll
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\bin\Debug\netcoreapp3.1\RestWithASPNET.pdb
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.csprojAssemblyReference.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.AssemblyInfoInputs.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.AssemblyInfo.cs
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.csproj.CoreCompileInputs.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.RazorTargetAssemblyInfo.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\staticwebassets\RestWithASPNET.StaticWebAssets.Manifest.cache
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\staticwebassets\RestWithASPNET.StaticWebAssets.xml
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.dll
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.pdb
+D:\Curso_Rest\RestWithASP-NET\RestWithASPNET 01 - Calculator\RestWithASPNET\obj\Debug\netcoreapp3.1\RestWithASPNET.genruntimeconfig.cache
