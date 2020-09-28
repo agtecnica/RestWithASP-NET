@@ -12,8 +12,6 @@ namespace RestWithASPNET.Controllers
     [ApiController]
     public class CalculatorController : ControllerBase
     {
-
-
         // GET api/sum/5/5
         [HttpGet("sum/{firstnumber}/{secondNumber}")]
         public IActionResult Sum(string firstnumber, string secondNumber)
@@ -25,6 +23,7 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
         // GET api/subtraction/5/5
         [HttpGet("subtraction/{firstnumber}/{secondNumber}")]
         public IActionResult Sub(string firstnumber, string secondNumber)
@@ -36,6 +35,7 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
         // GET api/mult/5/5
         [HttpGet("mult/{firstnumber}/{secondNumber}")]
         public IActionResult Mult(string firstnumber, string secondNumber)
@@ -47,6 +47,7 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
+
         // GET api/avg/5/5
         [HttpGet("avg/{firstnumber}/{secondNumber}")]
         public IActionResult Avg(string firstnumber, string secondNumber)
@@ -58,7 +59,8 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
-        // GET api/avg/5/5
+
+        // GET api/sqrt/9
         [HttpGet("sqrt/{firstnumber}")]
         public IActionResult sqrt(string firstnumber, string secondNumber)
         {
@@ -70,9 +72,8 @@ namespace RestWithASPNET.Controllers
             return BadRequest("Invalid Input");
         }
 
-        //soma, divisao, multiplicao, média e raiz quadrada
         // GET api/Div/3/2
-        [HttpGet("Div/{firstnumber}/{secondNumber}")]
+        [HttpGet("div/{firstnumber}/{secondNumber}")]
         public IActionResult Division(string firstnumber, string secondNumber)
         {
             if (IsNumeric(firstnumber) && IsNumeric(secondNumber))
@@ -85,8 +86,6 @@ namespace RestWithASPNET.Controllers
             }
             return BadRequest("Invalid Input");
         }
-
-
 
         private decimal ConvertToDecimal(string number)
         {
