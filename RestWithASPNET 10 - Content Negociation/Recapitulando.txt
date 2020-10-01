@@ -1,0 +1,6 @@
+- Content Negociation
+- XML Formatters
+- Serializar formtatters
+- Media type
+- Formatter mappings
+- Header params <- Formatos json e xml no header da requisição
