@@ -1,0 +1,7 @@
+{
+  "Evolve.Driver": "Npgsql",
+  "Evolve.ConnectionString": "Server=127.0.0.1;Port=5432;User Id=postgres;Password=Agtecnica2017;Database=RestFull;",
+  "Evolve.Locations": "DataBase",
+  "Evolve.Command": "migrate",
+  "Evolve.PlaceHolder.table4": "table_4"
+}
