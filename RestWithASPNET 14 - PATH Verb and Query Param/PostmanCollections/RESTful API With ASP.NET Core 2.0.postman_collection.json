@@ -1,75 +1,131 @@
 {
-	"id": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
+	"id": "06355b9c-3205-4558-8395-b3ed3179548b",
 	"name": "RESTful API With ASP.NET Core 2.0",
 	"description": "",
+	"auth": null,
+	"events": null,
+	"variables": [],
 	"order": [],
+	"folders_order": [
+		"24a258b3-16a0-4c00-896e-bb1f66cb6193",
+		"f043be94-2e4d-4a2e-9c0b-3216542354a2",
+		"ff105a4d-821e-477d-8b6e-9cac70b20154",
+		"4cc9e642-25f4-4a48-a4d9-90a459955e20"
+	],
+	"protocolProfileBehavior": {},
 	"folders": [
 		{
-			"id": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
+			"id": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
 			"name": "Books",
 			"description": "Folder for {{host}}:{{port}}",
+			"auth": null,
+			"events": null,
+			"collection": "06355b9c-3205-4558-8395-b3ed3179548b",
+			"folder": null,
 			"order": [
-				"cb4785a3-9e36-4ffb-b5be-c5488b0af8e9",
-				"51051512-5b51-2428-0765-c0b976cf31a8",
-				"a8b252d5-ef14-d4d8-5a72-d98450aff157",
-				"57262045-f772-3a35-ae8f-201911e66942",
-				"f20131d8-f10f-f4bf-2577-99eb636752c5"
+				"b8daee0b-3223-4093-a94f-62106ad19822",
+				"05b35056-51cc-4871-8ae1-b52538434c55",
+				"74f91b1a-a247-482a-a8fd-58295bc4b7ca",
+				"a822a6e1-42b2-43e4-ac7e-60bb57877c85",
+				"e9a01344-9770-441c-8c39-daec1325c51b"
 			],
-			"owner": 0,
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"folders_order": []
+			"folders_order": [],
+			"protocolProfileBehavior": {}
 		},
 		{
-			"id": "becef405-c63e-3c1c-0e40-69acbc2b14a3",
+			"id": "f043be94-2e4d-4a2e-9c0b-3216542354a2",
 			"name": "Files",
 			"description": "Folder for {{host}}:{{port}}",
+			"auth": null,
+			"events": null,
+			"collection": "06355b9c-3205-4558-8395-b3ed3179548b",
+			"folder": null,
 			"order": [
-				"16706dfa-70b4-9766-502f-345f2d4cd56d"
+				"b055851f-40da-4b24-88f6-082b28fb7aba"
 			],
-			"owner": 0,
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"folders_order": []
+			"folders_order": [],
+			"protocolProfileBehavior": {}
 		},
 		{
-			"id": "130e3de6-00d3-c9a6-056b-bdd7a9ecfa4f",
+			"id": "24a258b3-16a0-4c00-896e-bb1f66cb6193",
 			"name": "Login",
 			"description": "Folder for {{host}}:{{port}}",
+			"auth": null,
+			"events": null,
+			"collection": "06355b9c-3205-4558-8395-b3ed3179548b",
+			"folder": null,
 			"order": [
-				"1cbab14d-d756-a46a-3225-792c76cb123b"
+				"417c840a-2267-4847-80fb-f5046bca77c1"
 			],
-			"owner": 0,
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"folders_order": []
+			"folders_order": [],
+			"protocolProfileBehavior": {}
 		},
 		{
-			"id": "25294243-8797-85e1-9d58-2c5bb36fe575",
+			"id": "ff105a4d-821e-477d-8b6e-9cac70b20154",
 			"name": "Persons",
 			"description": "Folder for {{host}}:{{port}}",
+			"auth": null,
+			"events": null,
+			"collection": "06355b9c-3205-4558-8395-b3ed3179548b",
+			"folder": null,
 			"order": [
-				"6c82eaa9-18a3-4989-8fce-b8abd7b071b1",
-				"7e4c5ff6-5ba7-7004-d827-34af95e0f262",
-				"f54980b2-d63c-6f02-f2e5-58b5f099e8c3",
-				"3d399c2b-b91b-a932-3238-3be3d14170e2",
-				"2e89430f-3734-285c-d0c5-6d80133fbe78"
+				"3d854fe3-247d-4101-be9d-46484651d870",
+				"e48f153f-1ef5-49ab-8e6b-11e205c08991",
+				"dd625906-4005-44f0-b22b-2df756cdb689",
+				"69e32fc9-89bc-4bc8-8cbf-f6c67b0d2d21",
+				"ce54bc71-3526-4089-b85e-b144760be828"
 			],
-			"owner": 0,
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"folders_order": []
+			"folders_order": [],
+			"protocolProfileBehavior": {}
 		}
 	],
-	"folders_order": [
-		"130e3de6-00d3-c9a6-056b-bdd7a9ecfa4f",
-		"becef405-c63e-3c1c-0e40-69acbc2b14a3",
-		"25294243-8797-85e1-9d58-2c5bb36fe575",
-		"3b84c47a-00aa-9943-0b76-2f5e6ecc844e"
-	],
-	"timestamp": 1413302258635,
-	"owner": 0,
-	"public": false,
 	"requests": [
 		{
-			"id": "16706dfa-70b4-9766-502f-345f2d4cd56d",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"id": "05b35056-51cc-4871-8ae1-b52538434c55",
+			"name": "https://{{host}}:{{port}}/api/v1/books",
+			"url": "https://{{host}}:{{port}}/api/v1/books",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json-patch+json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
+			"rawModeData": null,
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "3d854fe3-247d-4101-be9d-46484651d870",
+			"name": "https://{{host}}:{{port}}/api/v1/persons",
+			"url": "https://{{host}}:{{port}}/api/v1/persons/1",
+			"description": "",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
 			"headerData": [
 				{
 					"key": "Accept",
@@ -84,28 +140,23 @@
 					"enabled": true
 				}
 			],
-			"url": "http://{{host}}:{{port}}/api/files/v1",
-			"folder": "becef405-c63e-3c1c-0e40-69acbc2b14a3",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
 			"method": "GET",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919652288,
-			"name": "https://{{host}}:{{port}}/api/files/v1",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "ff105a4d-821e-477d-8b6e-9cac70b20154",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
 		},
 		{
-			"id": "1cbab14d-d756-a46a-3225-792c76cb123b",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json\n",
+			"id": "417c840a-2267-4847-80fb-f5046bca77c1",
+			"name": "https://{{host}}:{{port}}/api/v1/login",
+			"url": "https://{{host}}:{{port}}/api/v1/login",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "raw",
 			"headerData": [
 				{
 					"key": "Accept",
@@ -120,30 +171,46 @@
 					"enabled": true
 				}
 			],
-			"url": "https://{{host}}:{{port}}/api/v1/login",
-			"folder": "130e3de6-00d3-c9a6-056b-bdd7a9ecfa4f",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
 			"method": "POST",
-			"data": [],
-			"dataMode": "raw",
-			"version": 2,
-			"tests": "if(responseCode.code >= 200 && responseCode.code <= 299) {\r\n    var jsonData = JSON.parse(responseBody);\r\n\r\n    postman.setEnvironmentVariable('bearer_token', jsonData.accessToken);\r\n}",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526917191383,
-			"name": "https://{{host}}:{{port}}/api/v1/login",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": [],
-			"rawModeData": "{\r\n  \"login\": \"{{user}}\",\r\n  \"accessKey\": \"{{password}}\"\r\n}"
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"if(responseCode.code >= 200 && responseCode.code <= 299) {\r",
+							"    var jsonData = JSON.parse(responseBody);\r",
+							"\r",
+							"    postman.setEnvironmentVariable('bearer_token', jsonData.accessToken);\r",
+							"}"
+						],
+						"id": "1df4294b-7deb-46ef-9062-6ea3c92557de"
+					}
+				}
+			],
+			"folder": "24a258b3-16a0-4c00-896e-bb1f66cb6193",
+			"rawModeData": "{\r\n  \"login\": \"{{user}}\",\r\n  \"accessKey\": \"{{password}}\"\r\n}",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json\n",
+			"pathVariables": {}
 		},
 		{
-			"id": "2e89430f-3734-285c-d0c5-6d80133fbe78",
-			"headers": "Authorization: Bearer {{bearer_token}}\n",
+			"id": "69e32fc9-89bc-4bc8-8cbf-f6c67b0d2d21",
+			"name": "https://{{host}}:{{port}}/api/v1/persons/:id",
+			"url": "https://{{host}}:{{port}}/api/v1/persons/:id",
+			"description": "",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
 			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
 				{
 					"key": "Authorization",
 					"value": "Bearer {{bearer_token}}",
@@ -151,57 +218,179 @@
 					"enabled": true
 				}
 			],
-			"url": "https://{{host}}:{{port}}/api/v1/persons/:id",
-			"folder": "25294243-8797-85e1-9d58-2c5bb36fe575",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {
-				"id": "{{id}}"
-			},
+			"method": "GET",
 			"pathVariableData": [
 				{
 					"description": "",
 					"key": "id",
 					"value": "{{id}}"
+				}
+			],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "ff105a4d-821e-477d-8b6e-9cac70b20154",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {
+				"id": "{{id}}"
+			}
+		},
+		{
+			"id": "74f91b1a-a247-482a-a8fd-58295bc4b7ca",
+			"name": "https://{{host}}:{{port}}/api/v1/books",
+			"url": "https://{{host}}:{{port}}/api/v1/books",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json-patch+json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
+			"rawModeData": null,
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a822a6e1-42b2-43e4-ac7e-60bb57877c85",
+			"name": "https://{{host}}:{{port}}/api/v1/books/:id",
+			"url": "https://{{host}}:{{port}}/api/v1/books/:id",
+			"description": "",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [
+				{
+					"description": "",
+					"key": "id",
+					"value": "{{id}}"
+				}
+			],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {
+				"id": "{{id}}"
+			}
+		},
+		{
+			"id": "b055851f-40da-4b24-88f6-082b28fb7aba",
+			"name": "https://{{host}}:{{port}}/api/files/v1",
+			"url": "http://{{host}}:{{port}}/api/files/v1",
+			"description": "",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "f043be94-2e4d-4a2e-9c0b-3216542354a2",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "b8daee0b-3223-4093-a94f-62106ad19822",
+			"name": "https://{{host}}:{{port}}/api/v1/books",
+			"url": "https://{{host}}:{{port}}/api/v1/books",
+			"description": "",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ce54bc71-3526-4089-b85e-b144760be828",
+			"name": "https://{{host}}:{{port}}/api/v1/persons/:id",
+			"url": "https://{{host}}:{{port}}/api/v1/persons/:id",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
 				}
 			],
 			"method": "DELETE",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919706194,
-			"name": "https://{{host}}:{{port}}/api/v1/persons/:id",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
-		},
-		{
-			"id": "3d399c2b-b91b-a932-3238-3be3d14170e2",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/persons/:id",
-			"folder": "25294243-8797-85e1-9d58-2c5bb36fe575",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {
-				"id": "{{id}}"
-			},
 			"pathVariableData": [
 				{
 					"description": "",
@@ -209,325 +398,122 @@
 					"value": "{{id}}"
 				}
 			],
-			"method": "GET",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919685865,
-			"name": "https://{{host}}:{{port}}/api/v1/persons/:id",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
-		},
-		{
-			"id": "51051512-5b51-2428-0765-c0b976cf31a8",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Content-Type",
-					"value": "application/json-patch+json",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/books",
-			"folder": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
 			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
-			"method": "PUT",
-			"data": [],
-			"dataMode": "raw",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919752071,
-			"name": "https://{{host}}:{{port}}/api/v1/books",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": [],
-			"rawModeData": null
-		},
-		{
-			"id": "57262045-f772-3a35-ae8f-201911e66942",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/books/:id",
-			"folder": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
-			"queryParams": [],
-			"preRequestScript": "",
+			"auth": null,
+			"events": null,
+			"folder": "ff105a4d-821e-477d-8b6e-9cac70b20154",
+			"headers": "Authorization: Bearer {{bearer_token}}\n",
 			"pathVariables": {
 				"id": "{{id}}"
-			},
-			"pathVariableData": [
-				{
-					"description": "",
-					"key": "id",
-					"value": "{{id}}"
-				}
-			],
-			"method": "GET",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919771101,
-			"name": "https://{{host}}:{{port}}/api/v1/books/:id",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
+			}
 		},
 		{
-			"id": "6c82eaa9-18a3-4989-8fce-b8abd7b071b1",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/persons/1",
-			"folder": "25294243-8797-85e1-9d58-2c5bb36fe575",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
-			"method": "GET",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526917262385,
+			"id": "dd625906-4005-44f0-b22b-2df756cdb689",
 			"name": "https://{{host}}:{{port}}/api/v1/persons",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": [],
-			"isFromCollection": true,
-			"collectionRequestId": "f1eda003-10b4-40b7-251e-ca7818356de8"
-		},
-		{
-			"id": "7e4c5ff6-5ba7-7004-d827-34af95e0f262",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Content-Type",
-					"value": "application/json-patch+json",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
 			"url": "https://{{host}}:{{port}}/api/v1/persons",
-			"folder": "25294243-8797-85e1-9d58-2c5bb36fe575",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
-			"method": "PUT",
-			"data": [],
-			"dataMode": "raw",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526918980051,
-			"name": "https://{{host}}:{{port}}/api/v1/persons",
 			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": [],
-			"rawModeData": null
-		},
-		{
-			"id": "a8b252d5-ef14-d4d8-5a72-d98450aff157",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "raw",
 			"headerData": [
 				{
 					"key": "Accept",
 					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
 					"enabled": true
 				},
 				{
 					"key": "Content-Type",
 					"value": "application/json-patch+json",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
 					"enabled": true
 				}
 			],
-			"url": "https://{{host}}:{{port}}/api/v1/books",
-			"folder": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
 			"method": "POST",
-			"data": [],
-			"dataMode": "raw",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919761830,
-			"name": "https://{{host}}:{{port}}/api/v1/books",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": [],
-			"rawModeData": null
-		},
-		{
-			"id": "cb4785a3-9e36-4ffb-b5be-c5488b0af8e9",
-			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nAuthorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Accept",
-					"value": "text/plain, application/json, text/json, application/xml, text/xml",
-					"description": "",
-					"enabled": true
-				},
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/books",
-			"folder": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {},
-			"pathVariableData": [],
-			"method": "GET",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919740368,
-			"name": "https://{{host}}:{{port}}/api/v1/books",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
-		},
-		{
-			"id": "f20131d8-f10f-f4bf-2577-99eb636752c5",
-			"headers": "Authorization: Bearer {{bearer_token}}\n",
-			"headerData": [
-				{
-					"key": "Authorization",
-					"value": "Bearer {{bearer_token}}",
-					"description": "",
-					"enabled": true
-				}
-			],
-			"url": "https://{{host}}:{{port}}/api/v1/books/:id",
-			"folder": "3b84c47a-00aa-9943-0b76-2f5e6ecc844e",
-			"queryParams": [],
-			"preRequestScript": "",
-			"pathVariables": {
-				"id": "{{id}}"
-			},
 			"pathVariableData": [
 				{
-					"description": "",
-					"key": "id",
-					"value": "{{id}}"
+					"key": "version",
+					"value": "{{version}}"
 				}
 			],
-			"method": "DELETE",
-			"data": [],
-			"dataMode": "params",
-			"version": 2,
-			"tests": "",
-			"currentHelper": "normal",
-			"helperAttributes": {},
-			"time": 1526919785694,
-			"name": "https://{{host}}:{{port}}/api/v1/books/:id",
-			"description": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"responses": []
-		},
-		{
-			"id": "f54980b2-d63c-6f02-f2e5-58b5f099e8c3",
+			"queryParams": null,
+			"auth": null,
+			"events": null,
+			"folder": "ff105a4d-821e-477d-8b6e-9cac70b20154",
+			"rawModeData": "",
 			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\n",
-			"url": "https://{{host}}:{{port}}/api/v1/persons",
 			"pathVariables": {
 				"version": "{{version}}"
-			},
-			"preRequestScript": "",
-			"method": "POST",
-			"data": [],
-			"dataMode": "raw",
-			"description": "",
-			"descriptionFormat": "html",
-			"time": 1526586566771,
-			"version": 2,
-			"responses": [],
-			"tests": "",
-			"collectionId": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
+			}
+		},
+		{
+			"id": "e48f153f-1ef5-49ab-8e6b-11e205c08991",
 			"name": "https://{{host}}:{{port}}/api/v1/persons",
-			"collection_id": "d42f2cf6-a3d4-0a66-26ff-493bf17553bd",
-			"folder": "25294243-8797-85e1-9d58-2c5bb36fe575"
+			"url": "https://{{host}}:{{port}}/api/v1/persons",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "text/plain, application/json, text/json, application/xml, text/xml",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json-patch+json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "ff105a4d-821e-477d-8b6e-9cac70b20154",
+			"rawModeData": null,
+			"headers": "Accept: text/plain, application/json, text/json, application/xml, text/xml\nContent-Type: application/json-patch+json\nAuthorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e9a01344-9770-441c-8c39-daec1325c51b",
+			"name": "https://{{host}}:{{port}}/api/v1/books/:id",
+			"url": "https://{{host}}:{{port}}/api/v1/books/:id",
+			"description": "",
+			"data": [],
+			"dataOptions": null,
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Bearer {{bearer_token}}",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [
+				{
+					"description": "",
+					"key": "id",
+					"value": "{{id}}"
+				}
+			],
+			"queryParams": [],
+			"auth": null,
+			"events": null,
+			"folder": "4cc9e642-25f4-4a48-a4d9-90a459955e20",
+			"headers": "Authorization: Bearer {{bearer_token}}\n",
+			"pathVariables": {
+				"id": "{{id}}"
+			}
 		}
 	]
 }
